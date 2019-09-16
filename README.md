@@ -3,7 +3,7 @@
 
 - [基于bert的句子对的中文分类](https://www.kaggle.com/c/fake-news-pair-classification-challenge)       
 数据集位于kaggle上，地址：https://www.kaggle.com/c/fake-news-pair-classification-challenge   
-代码脚本`sentense_pair_classify.py`， 运行结果如下：              
+代码脚本`bert_sentence_pair_classify/sentense_pair_classify.py`， 运行结果如下：              
 ![](https://i.imgur.com/nhEMYK6.png)
 
 - 基于bert进行中文ner  
