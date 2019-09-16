@@ -6,4 +6,7 @@
 代码脚本`sentense_pair_classify.py`， 运行结果如下：              
 ![](https://i.imgur.com/nhEMYK6.png)
 
-
+- 基于bert进行中文ner  
+数据集位于`bert_ner\data`中， 直接执行`python bert_ner.py`   
+训练得到的效果如下：   
+![](https://i.imgur.com/jk1OZLy.png)
